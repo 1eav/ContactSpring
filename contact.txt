@@ -1,0 +1,2 @@
+Ivan; +79002225555; ivan@example.com
+Alexey; +79001117777; alexey@example.com
